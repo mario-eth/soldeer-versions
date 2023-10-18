@@ -1,4 +1,3 @@
-[sdependencies]
 "@openzeppelin-contracts~2.3.0" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/@openzeppelin-contracts~2.3.0.zip"
 "@openzeppelin-contracts~2.4.0-beta.0" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/@openzeppelin-contracts~2.4.0-beta.0.zip"
 "@openzeppelin-contracts~2.4.0-beta.1" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/@openzeppelin-contracts~2.4.0-beta.1.zip"
@@ -461,3 +460,6 @@
 "solady~0.0.122" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/solady~0.0.122.zip"
 "solady~0.0.123" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/solady~0.0.123.zip"
 "solady~0.0.124" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/solady~0.0.124.zip"
+"solady~0.0.125" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/solady~0.0.125.zip"
+"solady~0.0.126" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/solady~0.0.126.zip"
+"solady~0.0.127" = "https://github.com/mario-eth/soldeer-versions/raw/main/all_versions/solady~0.0.127.zip"
